@@ -9,7 +9,9 @@
 |  Grösse  |  1.05 Meter  |
 
 ## Charakter
-Phenebet ist sehr kommunikationsfreudig und hat gerne eini
+Phenebet ist sehr eine offene, fidele Persönlichkeit, die lieber handelt als nachdenkt. Ihre possitive Einstellung hat bisher bestätigt, dass solange man etwas versucht, auch immer etwas gutes dabei raus kommt (auch wenn es manchmal etwas länger dauert). Gerne neckt sie auch andere Personen und ist für einen verbalen Schlagabtausch immer zu haben.
+
+Gerne ist sie mit anderen unterwegs, weiss aber, dass sie sich am Ende des Tages nur auf sich selber verlassen kann und sucht daher auch keine tiefere Bindung mit anderen Personen.
 
 ## Kindheit
 Phenebet kam im kleinen Städtchen Midriven auf die Welt als 3. von 5 Kindern. Ihre Eltern waren Handwerksleute und haben eine Töpferei betrieben gemeinsam die Resultate zu gutem Preis verkaufen können, sodass Phenebet in einem guten Viertel von Midriven aufwuchs und auch eine gute Bildung inkl. Lesen/Schreiben&Rechnen genoss. Wenn sie nicht mit Lernen oder Aushelfen im Haushalt / Töpferei beschäftigt war, hat sie am liebsten mit den anderen Kindern draussen gespielt, am liebsten Fangen & Verstecken auf dem grossen Marktplatz.
@@ -34,5 +36,9 @@ Kaum schlägt sie das Buch auf, geht ein kurzer leichter Windstoss durchs Archiv
 
 Als sie bei der letzten Seite ankommt, hört sie eine klare Aussage "Hallo Phenebet - ich habe lange auf dich gewartet!". Phenebeth antwortet und kommt in ein Gespräch mit einem Seladun, einem Fiend, der ihr erklärt, dass sie durch ihre unvorsichtige Wissberiegkeit soeben ein Pakt mit ihm eingegangen ist.
 
-## Motivation
+Beim erneuten aufschlagen des Buches sieht Phenebet, dass alle Schriftzeichen, auch die auf dem Einband verschwunden sind. Seladun erklärt Phenebet auch, was dieser Pakt bedeutet - Macht für Phenebet und die Möglichkeit Zauber zu wirken.
 
+## Motivation
+Angetan von diesen neuen Möglichkeiten, die sich bieten, entschliesst sich Phenebet sich dieses Zuhause nicht mehr anzutun und läuft davon (was eine Straftat in Midriver ist - Frauen dürfen sich ohne Erlaubnis des Ehemannes nicht aus der Stadt entfernen). Sie ist auf der Suche nach arkanem Wissen, um diesen Pakt besser zu verstehen und das beste daraus zu machen - sie vermutet nämlich, dass dieser Pakt nicht nur possitives mit sich bringt, sondern auch einen Preis fordert, jedoch klärt Seladun sie dazu nicht auf.
+
+Auf dem Weg nach mehr Wissen will Sie auch endlich wieder das Leben in vollen Zügen geniessen - etwas, was ihr in letzter Zeit verwehrt war, und sie merkt, wie sie wieder aufblüht mit ihrer neu gewonnener Freiheit.
