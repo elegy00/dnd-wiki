@@ -1,4 +1,6 @@
 # Phenebet Galli Prigani Swivelreach
+![Phenebet](./phenebet.png)
+
 
 ## Steckbrief
 | Eigenschaft  |  Wert  |
