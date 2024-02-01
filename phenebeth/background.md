@@ -25,7 +25,7 @@ In der zwischenzeit hat sich die Fliterei mit dem jungen Halbling Kermat, welche
 
 Durch diese veränderten Umstände zuhause hat Phenebeth sich dort immer weniger wohl gefühlt, jedoch auch mit dem Wissen, dass sie von sich aus sich nicht von Kermat trennen konnte, hat sie sich immer tiefer in ihre Arbeit in der Bibliothek vertieft und kam - wenn überhaupt - nur noch zum schlafen nachhause.
 
-Auch da Kermat sehr stark sozial verankert war im Stättchen und überall durchaus beliebt, traute sich Phenebeth immer weniger in die Gesellschaft, immer aus mit dem
+Auch da Kermat sehr stark sozial verankert war im Städtchen und überall durchaus beliebt, traute sich Phenebeth immer weniger in die Gesellschaft, immer aus mit dem
 
 ## Bonding
 In dieser tristen Zeit hat Phenebeth nicht neben den regulären Arbeit auch Zeit damit verbracht, in den Bereichen des Archivs zu stöbern, die gemeinhin als uninteressant galten. Einerseits gab es die Kellerräume mit Schriften, die niemand in Midriven mehr lesen konnte, aber es gab auch ganze Regale die von Büchern, denen die Feuchtigkeit in den weniger gut durchlüfteten Räumen stark zugesetzt hat.
