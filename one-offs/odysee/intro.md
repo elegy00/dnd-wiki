@@ -1,10 +1,12 @@
 # Stand letztes Abenteuer
+
 Phenebeth, Rigotin, Murdrak & Kolmorok stehen gemeinsam am Steg.
 `Stimmung` - `Aufbruchstimmung`
 
 ## Phenebeth meldet Bauchkrämpfe und sagt, die anderen sollen die Weiterreise bestimmen, sie fügt sich dem Gruppenmehr
 
 ## Verschiedene Schiffe anwesend
+
 Manche haben in der Buchte geankert und sind mit kleinen Ruderboten am hin und her fahren
 
 1. Ein Marineschiff, für schwere Seeschlachten ausgelegt
@@ -21,23 +23,27 @@ Manche haben in der Buchte geankert und sind mit kleinen Ruderboten am hin und h
 ### Phenebeth meldet sich irgendwo zum hinlegen ab
 
 ### Lulat Schono taucht auf
-* Schiffsbrüchiger
-* Zauberpanne
-* Blinder passagier
-* Arbeitender Gast
+
+- Schiffsbrüchiger
+- Zauberpanne
+- Blinder passagier
+- Arbeitender Gast
 
 ### Die Gruppe macht, was auf dem Schiff sie so belustigt
 
 ### Das Wetter ändert sich:
-* Flaute -> Meuterei
-* Ein Sturm zieht auf -> Sturmcheck
-* Es wird Neblig -> Geisterschiff
-* Irgendwas -> Gnomen-Piraten
-* Sonstwas -> Grosse Kreatur (Finale)
+
+- Flaute -> Meuterei
+- Ein Sturm zieht auf -> Sturmcheck
+- Es wird Neblig -> Geisterschiff
+- Irgendwas -> Gnomen-Piraten
+- Sonstwas -> Grosse Kreatur (Finale)
 
 ### Belohnung
+
 Der Kapitän lädt euch ein, eines seiner
-*  Edelsten Kleidunggstücke jeweils auszuwählen
-*  Erbeutetes Schmuckstück auszuwählen
-*  Ein Exotisches Rezeptbuch
-*  Irgendwas
+
+- Edelsten Kleidunggstücke jeweils auszuwählen
+- Erbeutetes Schmuckstück auszuwählen
+- Ein Exotisches Rezeptbuch
+- Irgendwas
