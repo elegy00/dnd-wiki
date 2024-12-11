@@ -32,4 +32,12 @@ Manche haben in der Buchte geankert und sind mit kleinen Ruderboten am hin und h
 * Flaute -> Meuterei
 * Ein Sturm zieht auf -> Sturmcheck
 * Es wird Neblig -> Geisterschiff
-* 
+* Irgendwas -> Gnomen-Piraten
+* Sonstwas -> Grosse Kreatur (Finale)
+
+### Belohnung
+Der Kapitän lädt euch ein, eines seiner
+*  Edelsten Kleidunggstücke jeweils auszuwählen
+*  Erbeutetes Schmuckstück auszuwählen
+*  Ein Exotisches Rezeptbuch
+*  Irgendwas
