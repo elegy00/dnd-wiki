@@ -17,4 +17,5 @@
 # Kampf
 ## Vorbereit skizzieren auf dem Blatt
 ## Gegner aussehen & stance beschreiben
+## Initiative rollen
 ## Gegner 'schauspielen'
